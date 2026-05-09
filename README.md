@@ -1,26 +1,26 @@
 # 🌿 lawn-skills
 
-잔디 관리 기술 모음 저장소입니다.
+A collection of daily work logs and task management skills.
 
-## 📋 개요
+## 📋 Overview
 
-이 저장소는 일일 업무 로그 및 작업 관련 스킬 파일을 관리하기 위한 공간입니다.
+This repository is a space for managing skill files related to daily work logs and task management.
 
-## 📁 파일 구성
+## 📁 File Structure
 
-| 파일명 | 설명 |
+| File | Description |
 |---|---|
-| `daily-work-log-repo.zip` | 일일 업무 로그 저장소 스킬 파일 |
+| `daily-work-log-repo.zip` | Skill files for daily work log repository |
 
-## 🚀 사용 방법
+## 🚀 How to Use
 
-1. 원하는 스킬 파일을 다운로드합니다.
-2. 2. 해당 스킬을 적용할 환경에 압축 해제 후 사용합니다.
+1. Download the desired skill file.
+2. 2. Unzip the file in the target environment and apply the skill.
   
-   3. ## 📅 업데이트 이력
+   3. ## 📅 Update History
   
-   4. - 2026.05 : 초기 저장소 생성 및 일일 업무 로그 스킬 업로드
+   4. - 2026.05 : Initial repository created and daily work log skills uploaded
      
-      - ## 📬 문의
+      - ## 📬 Contact
      
-      - 저장소 관련 문의는 Issues 탭을 통해 남겨주세요.
+      - For any inquiries, please leave a message in the Issues tab.
