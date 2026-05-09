@@ -1,26 +1,20 @@
-# lawn-skills
+# daily-work-log
 
-A collection of daily work logs and task management skills.
+A Claude skill that turns your daily work summary into a structured log.
 
-## Overview
+---
 
-This repository is a space for managing skill files related to daily work logs and task management.
+## What it does
 
-## File Structure
+Tell Claude what you did today — or paste your chat history — and it will:
 
-| File | Description |
-|---|---|
-| `daily-work-log-repo.zip` | Skill files for daily work log repository |
+- Classify each task by type (meeting, dev, docs, content, education, etc.)
+- Track status: done, in progress, blocked, or carry-over
+- Generate a clean log in the format you need (quick memo, report, or markdown)
+- Add a one-line insight when patterns are detected — too many meetings, unresolved blockers, more incomplete than complete
 
-## How to Use
+---
 
-1. Download the desired skill file.
-2. Unzip the file in the target environment and apply the skill.
+## Example
 
-## Update History
-
-- 2026.05 : Initial repository created and daily work log skills uploaded
-
-## Contact
-
-For any inquiries, please leave a message in the Issues tab.
+**Input:**
