@@ -15,12 +15,12 @@ This repository is a space for managing skill files related to daily work logs a
 ## How to Use
 
 1. Download the desired skill file.
-2. 2. Unzip the file in the target environment and apply the skill.
-  
-   3. ## Update History
-  
-   4. - 2026.05 : Initial repository created and daily work log skills uploaded
-     
-      - ## Contact
-     
-      - For any inquiries, please leave a message in the Issues tab.
+2. Unzip the file in the target environment and apply the skill.
+
+## Update History
+
+- 2026.05 : Initial repository created and daily work log skills uploaded
+
+## Contact
+
+For any inquiries, please leave a message in the Issues tab.
